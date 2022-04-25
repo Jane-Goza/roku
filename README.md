@@ -13,51 +13,6 @@ Node, SASS, Vue CLI, Express, MySQL, PHP
 
 ___________________________________________________________________
 
-## Project setup - front end (client)
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-___________________________________________________________________
-
-## Project setup - back end (server)
-```
-
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-upload roku.sql file to phpmyadmin
-```
-npm run start
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-___________________________________________________________________
-
 # Mit License
 
 Copyright (c) 2021 Issakhanova Gaukhar
